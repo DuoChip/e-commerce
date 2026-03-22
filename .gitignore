@@ -1,0 +1,11 @@
+# Bỏ qua các file dữ liệu lớn
+data/raw/*.csv
+data/processed/*.csv
+
+# Bỏ qua các file model nặng
+models/*.pkl
+
+# Bỏ qua các thư mục môi trường ảo python
+venv/
+.env
+__pycache__/

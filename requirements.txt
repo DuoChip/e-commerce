@@ -1,0 +1,14 @@
+# File cấu hình thư viện cho dự án E-commerce Sales Analysis
+# Cài đặt bằng lệnh: pip install -r requirements.txt
+
+# Thư viện lõi xử lý dữ liệu
+pandas==2.2.1
+numpy==1.26.4
+
+# Thư viện trực quan hóa dữ liệu (dùng trong file EDA)
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Môi trường chạy Jupyter Notebook (Hỗ trợ chạy file đuôi .ipynb hoặc các block # %% trong VS Code)
+ipykernel==6.29.3
+jupyter==1.0.0
