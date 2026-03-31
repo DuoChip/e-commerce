@@ -15,8 +15,8 @@ import os
 # Giả sử file dữ liệu gốc nằm ở thư mục data/raw/
 # %%
 # Xác định đường dẫn (điều chỉnh tùy theo vị trí bạn mở Jupyter Notebook)
-# raw_data_path = '../data/raw/data.csv'
-# df = pd.read_csv(raw_data_path, encoding='ISO-8859-1')
+raw_data_path = '../data/raw/data.csv'
+df = pd.read_csv(raw_data_path, encoding='ISO-8859-1')
 
 # Tạm thời dùng Mock Data giống Pipeline để demo trong Notebook này
 import numpy as np
