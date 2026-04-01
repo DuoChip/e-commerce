@@ -1,5 +1,5 @@
 # 🛒 E-Commerce Sales & Customer Retention Analytics
-**Project Status:** 🟢 Completed | **Author:** Phạm Đình Được (Đình Đắc)
+**Project Status:** 🟢 Completed | **Author:** Phạm Đình Được (Chip)
 
 ---
 
@@ -53,6 +53,7 @@ Dự án sử dụng hai tập dữ liệu đã qua xử lý (Data Cleaning & Fe
 
 ---
 ## 📬 Contact Information
-- **Name:** Phạm Đình Được (Đình Đắc)
+- **Name:** Phạm Đình Được 
 - **Position:** Data Analyst Intern Candidate
 - **University:** Ho Chi Minh City University of Technology (HCMUT)
+- **Email:** duoc7090@gmail.com
