@@ -1,11 +1,13 @@
-# Bỏ qua các file dữ liệu lớn
-data/raw/*.csv
-data/processed/*.csv
-
-# Bỏ qua các file model nặng
-models/*.pkl
-
-# Bỏ qua các thư mục môi trường ảo python
-venv/
+.DS_Store
 .env
+.venv/
+venv/
 __pycache__/
+.ipynb_checkpoints/
+data/raw/*
+!data/raw/.gitkeep
+data/processed/
+*.aux
+*.log
+*.out
+*.toc
